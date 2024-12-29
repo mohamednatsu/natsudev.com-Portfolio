@@ -25,3 +25,18 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.hero_img {
+  animation: upanddown 1s infinite alternate;
+}
+
+
+@keyframes upanddown {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-10px);
+  }
+}

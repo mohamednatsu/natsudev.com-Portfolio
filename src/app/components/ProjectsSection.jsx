@@ -13,6 +13,7 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
+    stack: ["React", "Tailwind CSS"],
   },
   {
     id: 2,
@@ -22,6 +23,7 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
+    stack: ["React", "Tailwind CSS"],
   },
   {
     id: 3,
@@ -31,6 +33,7 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
+    stack: ["React", "Tailwind CSS"],
   },
   {
     id: 4,
@@ -40,6 +43,7 @@ const projectsData = [
     tag: ["All", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",
+    stack: ["React Native", "Expo"],
   },
   {
     id: 5,
@@ -49,6 +53,7 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
+    stack: ["React", "Firebase"],
   },
   {
     id: 6,
@@ -58,6 +63,7 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
+    stack: ["React", "Node.js", "MongoDB"],
   },
 ];
 
